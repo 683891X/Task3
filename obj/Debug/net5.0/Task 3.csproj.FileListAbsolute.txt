@@ -1,0 +1,16 @@
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\bin\Debug\net5.0\Task 3.exe
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\bin\Debug\net5.0\Task 3.deps.json
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\bin\Debug\net5.0\Task 3.runtimeconfig.json
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\bin\Debug\net5.0\Task 3.runtimeconfig.dev.json
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\bin\Debug\net5.0\Task 3.dll
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\bin\Debug\net5.0\ref\Task 3.dll
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\bin\Debug\net5.0\Task 3.pdb
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\obj\Debug\net5.0\Task 3.csprojAssemblyReference.cache
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\obj\Debug\net5.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\obj\Debug\net5.0\Task 3.AssemblyInfoInputs.cache
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\obj\Debug\net5.0\Task 3.AssemblyInfo.cs
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\obj\Debug\net5.0\Task 3.csproj.CoreCompileInputs.cache
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\obj\Debug\net5.0\Task 3.dll
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\obj\Debug\net5.0\ref\Task 3.dll
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\obj\Debug\net5.0\Task 3.pdb
+D:\Programming\OOIntro\Week 2\Exercise 1\Task 3\obj\Debug\net5.0\Task 3.genruntimeconfig.cache
